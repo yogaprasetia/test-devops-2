@@ -1,0 +1,3 @@
+Perbedaan antara Docker dan VMWare terletak pada metodenya, didalam VMWare aplikasi berjalan diatas Hypervisor dan Guest OS, sedangkan Docker menjalankan aplikasi nya langsung tanpa Hypervisor dan Guest OS.
+
+Kita bisa menggunakan VMWare jika kita ingin menggunakan system operasi secara bersamaan dan ingin mempelajarinya secara detail, sedangkan untuk docker sangat ringan dan cepat jika dibandingkan dengan VMWare yang berbasis hypervisor, sehingga menjadikan Docker sebagai alternatif yang efisien untuk developer tooling. 
