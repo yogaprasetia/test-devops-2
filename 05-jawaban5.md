@@ -1,0 +1,1 @@
+Cara saya dalam mengamankan server - server dalam perusahaan yang pertama saya akan memastikan bahwa server telah menggunakan SSL, kemudian memastikan bahwa password/autentikasi dalam server sangat kuat, lalu menginstall firewall pada server m yang terakhir memastikan bahwa perlu adanya otentifikasi jika ada yang masuk dalam server.
